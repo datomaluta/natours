@@ -13,11 +13,11 @@ A Landing page with some part of features.
 
 ### Screenshot
 
-![](./src/assets/screenshot.jpg)
+![](./img/screenshot.jpg)
 
 ### Links
 
-- Live Site URL: [https://tipcalculate-datomaluta.netlify.app/]
+- Live Site URL: [https://idyllic-sundae-85639b.netlify.app/]
 
 ### Built with
 
